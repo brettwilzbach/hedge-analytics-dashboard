@@ -1,0 +1,6 @@
+node_modules/
+nul
+.claude/
+*.log
+.DS_Store
+

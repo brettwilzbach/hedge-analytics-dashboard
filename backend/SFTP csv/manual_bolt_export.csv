@@ -1,0 +1,4 @@
+investment_id,bloomberg_id,pretty_name,hedge_family,hedge_label,strategy,underlying_type,underlying_symbol,strike_1,strike_2,call_put,expiry,notional_usd,direction,spread_id,spread_name,dv01_override,price_override,notes
+SWO000022K00AADG4AC,SP1P0VT1 Corp,CDX IG45 Dec 70bp Payer,Vanilla Risk-Off Hedges,CDX IG OPTIONS,CDX IG OPTIONS,Credit,CDX IG,70.0,,Put,2025-12-17,250.0,Long,,,,,
+CDX_HY_NOV_105,CDX_HY45_105,CDX HY Nov 105bp Call,Vanilla Risk-Off Hedges,CDX HY OPTIONS,CDX HY OPTIONS,Credit,CDX HY,105.0,,Call,2025-11-19,250.0,Long,CDX_HY_SPREAD,CDX HY 105/102 Nov Spread,,,
+CDX_HY_NOV_102,CDX_HY45_102,CDX HY Nov 102bp Put,Vanilla Risk-Off Hedges,CDX HY OPTIONS,CDX HY OPTIONS,Credit,CDX HY,102.0,,Put,2025-11-19,250.0,Short,CDX_HY_SPREAD,CDX HY 105/102 Nov Spread,,,
